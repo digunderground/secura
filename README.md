@@ -1,5 +1,5 @@
 ###########################################################################
-# Secura - Graflex Lightsaber Chassis - CLOSED BETA
+# Secura - Graflex Lightsaber Chassis -  BETA
 ###########################################################################
 
 PLEASE READ ANY/ALL .MD FILES BEFORE WASTING $$ ON PRINTS YOU DONT NEED
