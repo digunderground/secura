@@ -1,4 +1,4 @@
-https://github.com/user-attachments/assets/45fae5ab-8c1e-4102-8b1a-3b39fe108d14
+https://github.com/user-attachments/assets/b904147c-5c41-4c31-8f6f-022a52ba4b2a
 
 As a Padawan, Anakin Skywalker built his first lightsaber with great pride, believing it to be the finest weapon crafted by any Jedi. It did not last. In the depths of a Separatist droid foundry on Geonosis, he lost it—severed by a mechanical cutting arm as easily as the factory carved its machines of war. That was the nature of Anakin Skywalker: to build something powerful, only to lose it in his recklessness.
 
