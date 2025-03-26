@@ -16,20 +16,20 @@ PLEASE READ ANY/ALL .MD FILES BEFORE WASTING $$ ON PRINTS YOU DONT NEED
 - https://sendcutsend.com/
 
 ### Should you choose to print this using FDM or SLA or SLS, see the notes below: 
-** For FDM: **
+For FDM:
 - the finished product WILL lack strength in the layer direction
 - you WILL lose some of the detail
 - we recommend tree supports where necessarry
 - you will need to merge some parts into one (positive terminal isolation) and potentially use alternate parts
 - you will lose the chassis being a common ground 
 
-** For SLA: **
+For SLA:
 - we recommend a 50/50 mixture of Siraya Tech Tenacious Flex and an "ABS Like Resin" - SUNLU works well
 - SLA is weaker than most FDM, but has unidirectional strength
 - you will need to merge some parts into one (positive terminal isolation) and potentially use alternate parts
 - you will lose the chassis being a common ground 
 
-** For SLS: **
+For SLS:
 - we recommend this over SLA and FDM, but still inferior to metal
 - you will need to merge some parts into one (positive terminal isolation) and potentially use alternate parts
 - this is the best budget option if metal is not an option for you.
@@ -38,14 +38,14 @@ PLEASE READ ANY/ALL .MD FILES BEFORE WASTING $$ ON PRINTS YOU DONT NEED
 ###########################################################################
 ##  Status
 ###########################################################################
-**Current:**
+Current:
 - base F3d files uploaded for closed beta
 - initial open source license in place
 - WIP BOM file in place for needed parts
 - pushed STL variants for people without Fusion360
 - pushed DXF for laser cut metal pieces
 
-**TODO:**
+TODO:
 - Update WIP BOM: tools needed, reformat doc
 - Complete personal install to finalize vetting of all pieces
 - upload base proffie config
@@ -57,6 +57,7 @@ PLEASE READ ANY/ALL .MD FILES BEFORE WASTING $$ ON PRINTS YOU DONT NEED
 ###########################################################################
 ##  License information: 
 ###########################################################################
+---
 Secura Lightsaber Chassis © 2024 by PyxisVeritas LLC. is licensed under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International 
 
 CC BY-NC-SA 4.0
