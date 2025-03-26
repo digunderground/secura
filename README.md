@@ -8,6 +8,9 @@ PLEASE READ ANY/ALL .MD FILES BEFORE WASTING $$ ON PRINTS YOU DONT NEED
 ##  This is a WIP!!! 
 ###########################################################################
 
+![secura-render](https://github.com/user-attachments/assets/7858f8eb-e6d5-46d7-9ce5-63f1d3020e00)
+
+
 ### The intention is to print this in SLM metal using services like:
 - 316L best price: https://jlc3dp.com/
 - Aluminium and other metals: https://craftcloud3d.com/
