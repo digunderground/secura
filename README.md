@@ -38,6 +38,7 @@ For SLS:
 ###########################################################################
 ##  Status
 ###########################################################################
+
 Current:
 - base F3d files uploaded for closed beta
 - initial open source license in place
@@ -57,7 +58,7 @@ TODO:
 ###########################################################################
 ##  License information: 
 ###########################################################################
----
+
 Secura Lightsaber Chassis © 2024 by PyxisVeritas LLC. is licensed under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International 
 
 CC BY-NC-SA 4.0
