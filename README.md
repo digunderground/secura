@@ -8,28 +8,28 @@ PLEASE READ ANY/ALL .MD FILES BEFORE WASTING $$ ON PRINTS YOU DONT NEED
 ##  This is a WIP!!! 
 ###########################################################################
 
-###The intention is to print this in SLM metal using services like:
+### The intention is to print this in SLM metal using services like:
 - 316L best price: https://jlc3dp.com/
 - Aluminium and other metals: https://craftcloud3d.com/
 
-###Laser Cut metal parts have been tested from:
+### Laser Cut metal parts have been tested from:
 - https://sendcutsend.com/
 
-###Should you choose to print this using FDM or SLA or SLS, see the notes below: 
-**For FDM:**
+### Should you choose to print this using FDM or SLA or SLS, see the notes below: 
+** For FDM: **
 - the finished product WILL lack strength in the layer direction
 - you WILL lose some of the detail
 - we recommend tree supports where necessarry
 - you will need to merge some parts into one (positive terminal isolation) and potentially use alternate parts
 - you will lose the chassis being a common ground 
 
-**For SLA:**
+** For SLA: **
 - we recommend a 50/50 mixture of Siraya Tech Tenacious Flex and an "ABS Like Resin" - SUNLU works well
 - SLA is weaker than most FDM, but has unidirectional strength
 - you will need to merge some parts into one (positive terminal isolation) and potentially use alternate parts
 - you will lose the chassis being a common ground 
 
-**For SLS:**
+** For SLS: **
 - we recommend this over SLA and FDM, but still inferior to metal
 - you will need to merge some parts into one (positive terminal isolation) and potentially use alternate parts
 - this is the best budget option if metal is not an option for you.
