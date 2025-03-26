@@ -12,14 +12,16 @@ Current:
 - base F3d files uploaded for closed beta
 - initial open source license in place
 - WIP BOM file in place for needed parts
+- pushed STL variants for people without Fusion360
+- pushed DXF for laser cut metal pieces
 
 TODO:
 - Update WIP BOM: tools needed, reformat doc
-- Complete install and upload base proffie config
-- upload STL variants for people without Fusion360
+- Complete personal install to finalize vetting of all pieces
+- upload base proffie config
 - Find contributor for CFX holder and configs
 - Write or collaborate for install manual + exploded drawings etc
-- more TBD
+- addl tasks TBD
 
 
 ###########################################################################
