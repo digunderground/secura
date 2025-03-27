@@ -11,6 +11,27 @@ PLEASE READ ANY/ALL .MD FILES BEFORE WASTING $$ ON PRINTS YOU DONT NEED
 - the 33mm speaker (Shtok titan) requires quite a bit of thinning for the enclosure. This likely CANNOT be printed via FDM/SLA/SLS and needs to be done via SLM + nail-biting sanding.
 - for FDM/SLA/SLS: you will need to merge the main battery chassis and positive (top) isolation terminal as a single print 
 
+###########################################################################
+##  Status
+###########################################################################
+
+Current:
+- base F3d files uploaded for closed beta - 20250325
+- uploaded STEP Files for non-f360 users - 20250327
+- initial open source license in place - 20250325
+- WIP BOM file in place for needed parts - 20250325
+- pushed STL variants for people without Fusion360 - 20250325
+- pushed DXF for laser cut metal pieces - 20250325
+
+TODO:
+- Update WIP BOM: tools needed, reformat doc
+- Complete personal install to finalize vetting of all pieces
+- upload base proffie config
+- Find contributor for CFX holder and configs
+- Write or collaborate for install manual + exploded drawings etc
+- addl tasks TBD
+
+
 ---
 ![secura-render](https://github.com/user-attachments/assets/7858f8eb-e6d5-46d7-9ce5-63f1d3020e00)
 
@@ -41,26 +62,6 @@ For SLS:
 - you will need to merge some parts into one (positive terminal isolation) and potentially use alternate parts
 - this is the best budget option if metal is not an option for you.
 - you will lose the chassis being a common ground 
-
-###########################################################################
-##  Status
-###########################################################################
-
-Current:
-- base F3d files uploaded for closed beta
-- initial open source license in place
-- WIP BOM file in place for needed parts
-- pushed STL variants for people without Fusion360
-- pushed DXF for laser cut metal pieces
-
-TODO:
-- Update WIP BOM: tools needed, reformat doc
-- Complete personal install to finalize vetting of all pieces
-- upload base proffie config
-- Find contributor for CFX holder and configs
-- Write or collaborate for install manual + exploded drawings etc
-- addl tasks TBD
-
 
 ###########################################################################
 ##  License information: 
