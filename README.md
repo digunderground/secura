@@ -5,9 +5,13 @@
 PLEASE READ ANY/ALL .MD FILES BEFORE WASTING $$ ON PRINTS YOU DONT NEED
 
 ###########################################################################
-##  This is a WIP!!! 
+##  KNOWN ISSUES - This is a WIP!!! 
 ###########################################################################
 
+- the 33mm speaker (Shtok titan) requires quite a bit of thinning for the enclosure. This likely CANNOT be printed via FDM/SLA/SLS and needs to be done via SLM + nail-biting sanding.
+- for FDM/SLA/SLS: you will need to merge the main battery chassis and positive (top) isolation terminal as a single print 
+
+---
 ![secura-render](https://github.com/user-attachments/assets/7858f8eb-e6d5-46d7-9ce5-63f1d3020e00)
 
 
