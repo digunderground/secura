@@ -1,19 +1,58 @@
 https://creativecommons.org/licenses/by-nc-sa/4.0/
 https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.en
 
-You are free to:
+##You are free to:
 - Share — copy and redistribute the material in any medium or format
 - Adapt — remix, transform, and build upon the material
 - The licensor cannot revoke these freedoms as long as you follow the license terms.
 
-Under the following terms:
+##Under the following terms:
 - Attribution — You must give appropriate credit , provide a link to the license, and indicate if changes were made . You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
-- NonCommercial — You may not use the material for commercial purposes .
+- NonCommercial — You may NOT use the material for commercial purposes
 - ShareAlike — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
 - No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
 
-## Notices:
-You do not have to comply with the license for elements of the material in the public domain or where your use is permitted by an applicable exception or limitation .
+##Special Permission for Installers and Makers
+As the original creator, I grant additional permission for makers, techs, and installers:
+- You are allowed to charge for your services related to installing electronics (e.g., soundboards, LEDs, blade holders) into this hilt.
+
+This includes charging for:
+- Your time and labor
+- Materials you provide (electronics, wiring, etc.)
+- Custom installation work
+- reasonable pass-through costs of printing the parts for your customer
+
+You may not:
+- Sell the unmodified hilt or a fully printed hilt as a stand-alone product for profit
+- Sell or distribute the original digital files (e.g., STL, STEP, F3d etc.) or any remixed/derivative versions of the files for commercial purposes
+- Use the design in mass production or commercial retail
+- Remove attribution or relicense the design under different terms
+
+You must:
+- Credit the original design
+- Include this license notice and link
+- Share any remixed versions under the same license (CC BY-NC-SA 4.0)
+- Share any remixed versions with the same addendums for installers and makers. 
+
+##Educational & STEM Use
+
+**This design is fully permitted for use in educational, nonprofit, and STEM/STEAM programs.**  
+You may use the hilt design in classrooms, maker spaces, robotics clubs, student-led initiatives, and similar learning environments.
+
+Permitted educational uses include:
+- 3D printing and assembly by students for learning or demonstration
+- Inclusion in curriculum-based activities, labs, and workshops
+- Use in nonprofit hackathons or STEM competitions
+- Displaying student-built versions at educational events
+
+You may also:
+- Modify or remix the files to suit your lesson plans or class needs
+- Share educational remixes publicly under the same license (CC BY-NC-SA 4.0)
+
+You may not:
+- Sell the files or physical hilt designs
+- Use the design or derivatives for commercial fundraising without attribution
+- Omit attribution or relicense under a different license
 
 No warranties are given. The license may not give you all of the permissions necessary for your intended use. For example, other rights such as publicity, privacy, or moral rights may limit how you use the material.
 
