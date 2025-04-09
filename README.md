@@ -74,6 +74,9 @@ This license requires that reusers give credit to the creator.
 It allows reusers to distribute, remix, adapt, and build upon the material in any medium or format, for noncommercial purposes only. 
 If others modify or adapt the material, they must license the modified material under identical terms.
 
+Additional permissions granted to Installers, Makers, Educational usage, and STEM - deatails available in:
+https://github.com/digunderground/secura/blob/main/LICENSE
+
 BY: Credit must be given to the creator.
 
 NC: Only noncommercial use of your work is permitted.
