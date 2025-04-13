@@ -23,10 +23,12 @@ Current:
 - pushed STL variants for people without Fusion360 - 20250325
 - pushed DXF for laser cut metal pieces - 20250325
 
+In Process: 
+- Install on personal install to finalize vetting of all pieces
+- upload base proffie config
+
 TODO:
 - Update WIP BOM: tools needed, reformat doc
-- Complete personal install to finalize vetting of all pieces
-- upload base proffie config
 - Find contributor for CFX holder and configs
 - Write or collaborate for install manual + exploded drawings etc
 - addl tasks TBD
