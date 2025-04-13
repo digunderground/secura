@@ -13,8 +13,15 @@ https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.en
 - No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
 
 ## Special Permission for Installers and Makers
-As the original creator, I grant additional permission for makers, techs, and installers:
-- You are allowed to charge for your services related to installing electronics (e.g., soundboards, LEDs, blade holders) into this hilt.
+As the original creator, I grant additional permission for makers, techs, shops, retailers, and installers:
+- You are allowed to charge for your services related to installing electronics (e.g., soundboards, LEDs, blade holders) into this chassis and into the corresponding hilt.
+- You are allowed to sell BOM materials as an assembly kit
+
+You are permitted to pass on reasonable costs for printing this hilt or chassis**, including:
+- Filament/material costs
+- Machine wear and maintenance
+- Basic packaging and shipping
+- A modest handling fee for time spent printing, trimming, and packaging
 
 This includes charging for:
 - Your time and labor
@@ -33,6 +40,10 @@ You must:
 - Include this license notice and link
 - Share any remixed versions under the same license (CC BY-NC-SA 4.0)
 - Share any remixed versions with the same addendums for installers and makers. 
+
+What Counts as "Reasonable":
+- The total charge should reflect **actual, itemized costs** — not markup for resale.
+- Pricing should be **similar to what you'd charge a friend**, not a retail customer.
 
 ## Educational & STEM Use
 
