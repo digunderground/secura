@@ -15,17 +15,18 @@ PLEASE READ ANY/ALL .MD FILES BEFORE WASTING $$ ON PRINTS YOU DONT NEED
 ##  Status
 ###########################################################################
 
-Current:
+Current Progress:
+- Personal install complete - making some minor updates and will pull the project out of beta.- 20250503
+- base proffie config is done and being finalized with wiring diagram - 20250503
+- bespoke stand for graflex + chassis - in testing 
+
+Past: 
 - base F3d files uploaded for closed beta - 20250325
 - uploaded STEP Files for non-f360 users - 20250327
 - initial open source license in place - 20250325
 - WIP BOM file in place for needed parts - 20250325
 - pushed STL variants for people without Fusion360 - 20250325
 - pushed DXF for laser cut metal pieces - 20250325
-
-In Process: 
-- Install on personal install to finalize vetting of all pieces
-- upload base proffie config
 
 TODO:
 - Update WIP BOM: tools needed, reformat doc
