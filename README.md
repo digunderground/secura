@@ -37,10 +37,12 @@ TODO:
 
 
 ---
-Lightsaber Render; 
+Lightsaber Render:
+
 ![secura-render](https://github.com/user-attachments/assets/7858f8eb-e6d5-46d7-9ce5-63f1d3020e00)
 
 Lightsaber Stand Render: 
+
 ![Secura Stand-filled](https://github.com/user-attachments/assets/cd0e52e9-e7fb-4bac-8f0d-4c87d61e0846)
 https://github.com/digunderground/secura/tree/main/Extras/secura-stand
 
