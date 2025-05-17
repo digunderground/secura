@@ -18,7 +18,8 @@ PLEASE READ ANY/ALL .MD FILES BEFORE WASTING $$ ON PRINTS YOU DONT NEED
 Current Progress:
 - Personal install complete - making some minor updates and will pull the project out of beta.- 20250503
 - base proffie config is done and being finalized with wiring diagram - 20250503
-- bespoke stand for graflex + chassis - in testing 
+- bespoke stand for graflex + chassis - in testing
+- added a free open source saber stand for chassis and hilt under "extras"
 
 Past: 
 - base F3d files uploaded for closed beta - 20250325
@@ -36,7 +37,12 @@ TODO:
 
 
 ---
+Lightsaber Render; 
 ![secura-render](https://github.com/user-attachments/assets/7858f8eb-e6d5-46d7-9ce5-63f1d3020e00)
+
+Lightsaber Stand Render: 
+![Secura Stand-filled](https://github.com/user-attachments/assets/cd0e52e9-e7fb-4bac-8f0d-4c87d61e0846)
+https://github.com/digunderground/secura/tree/main/Extras/secura-stand
 
 
 ### The intention is to print this in SLM metal using services like:
