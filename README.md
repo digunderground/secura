@@ -3,7 +3,9 @@
 ###########################################################################
 
 PLEASE READ ANY/ALL .MD FILES BEFORE WASTING $$ ON PRINTS YOU DONT NEED
-we are working on updates to these .MD files 
+
+## Sample Craft Cloud Cart with parts in the correct materials- you can just pay and print these for the parts: 
+https://craftcloud3d.com/en/offer/1f019a7e-3fd2-4ae7-9aae-cc49bfd2d0f4?utm_source=craftcloud&utm_campaign=shareable_cart
 
 Lightsaber Render:
 
