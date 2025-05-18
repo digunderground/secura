@@ -1,5 +1,8 @@
 https://github.com/user-attachments/assets/b904147c-5c41-4c31-8f6f-022a52ba4b2a
 
+# SECURA LORE 
+################################################################
+
 As a Padawan, Anakin Skywalker built his first lightsaber with great pride, believing it to be the finest weapon crafted by any Jedi. It did not last. In the depths of a Separatist droid foundry on Geonosis, he lost it—severed by a mechanical cutting arm as easily as the factory carved its machines of war. That was the nature of Anakin Skywalker: to build something powerful, only to lose it in his recklessness.
 
 When the time came to construct a second saber, Anakin sought perfection. He had seen battle by then, had fought alongside Jedi whose skills in lightsaber construction surpassed his own. Among them was Aayla Secura. She was not merely a warrior—she was an artist with a blade, both in combat and in its design. Unlike most Jedi, who constructed their weapons once and rarely modified them, Aayla refined hers constantly, always improving its internals. She had developed a specialized chassis system, reinforcing the weapon’s power flow with stabilizers that increased energy efficiency and minimized strain on the Kyber crystal. This allowed her lightsaber to maintain perfect balance in combat, the energy output steady and unyielding even under extreme conditions. It was built for endurance, for adaptability—something that intrigued Anakin greatly.

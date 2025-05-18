@@ -1,12 +1,13 @@
-############################################################
-## Controller config files 
+
+# Controller config files 
 ############################################################
 
-Currently:  
-- we are working on finalizing the configuration for Proffie 3.9
-- no configs are currently available - proceed at your own risk.
-- targeting a proffie CFG release 202504 (yyyymm)
+## Proffie 3.9:  
 
-TODO: 
+- Base configuration for the Proffie 3.9 is live. you will need to read, understand, and add your own style functions
+
+
+## TODO: 
+
 - we need a collaborator for CFX config and model changes for CFX
 - any other sound boards TBD 

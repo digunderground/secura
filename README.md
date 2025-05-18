@@ -1,8 +1,9 @@
 ###########################################################################
-# Secura - Graflex Lightsaber Chassis -  BETA
+# Secura - Graflex Lightsaber Chassis - RELEASE
 ###########################################################################
 
 PLEASE READ ANY/ALL .MD FILES BEFORE WASTING $$ ON PRINTS YOU DONT NEED
+we are working on updates to these .MD files 
 
 ###########################################################################
 ##  KNOWN ISSUES - This is a WIP!!! 
@@ -16,10 +17,7 @@ PLEASE READ ANY/ALL .MD FILES BEFORE WASTING $$ ON PRINTS YOU DONT NEED
 ###########################################################################
 
 Current Progress:
-- Personal install complete - making some minor updates and will pull the project out of beta.- 20250503
-- base proffie config is done and being finalized with wiring diagram - 20250503
-- bespoke stand for graflex + chassis - in testing
-- added a free open source saber stand for chassis and hilt under "extras"
+- OFFICIAL RELEASE with all assembly edits - 20250518
 
 Past: 
 - base F3d files uploaded for closed beta - 20250325
@@ -28,12 +26,16 @@ Past:
 - WIP BOM file in place for needed parts - 20250325
 - pushed STL variants for people without Fusion360 - 20250325
 - pushed DXF for laser cut metal pieces - 20250325
+- Personal install complete - making some minor updates and will pull the project out of beta.- 20250503
+- base proffie config is done and being finalized with wiring diagram - 20250503
+- bespoke stand for graflex + chassis - in testing
+- added a free open source saber stand for chassis and hilt
 
 TODO:
 - Update WIP BOM: tools needed, reformat doc
+- direct links to purchasable carts for 3d print services and metal cutting services.
 - Find contributor for CFX holder and configs
 - Write or collaborate for install manual + exploded drawings etc
-- addl tasks TBD
 
 
 ---
