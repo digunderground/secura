@@ -5,6 +5,16 @@
 PLEASE READ ANY/ALL .MD FILES BEFORE WASTING $$ ON PRINTS YOU DONT NEED
 we are working on updates to these .MD files 
 
+Lightsaber Render:
+
+![secura-render](https://github.com/user-attachments/assets/7858f8eb-e6d5-46d7-9ce5-63f1d3020e00)
+
+Lightsaber Stand Render: 
+
+![Secura Stand-filled](https://github.com/user-attachments/assets/cd0e52e9-e7fb-4bac-8f0d-4c87d61e0846)
+https://github.com/digunderground/secura/tree/main/STL/Secura-stand
+
+
 ###########################################################################
 ##  KNOWN ISSUES - This is a WIP!!! 
 ###########################################################################
@@ -36,17 +46,6 @@ TODO:
 - direct links to purchasable carts for 3d print services and metal cutting services.
 - Find contributor for CFX holder and configs
 - Write or collaborate for install manual + exploded drawings etc
-
-
----
-Lightsaber Render:
-
-![secura-render](https://github.com/user-attachments/assets/7858f8eb-e6d5-46d7-9ce5-63f1d3020e00)
-
-Lightsaber Stand Render: 
-
-![Secura Stand-filled](https://github.com/user-attachments/assets/cd0e52e9-e7fb-4bac-8f0d-4c87d61e0846)
-https://github.com/digunderground/secura/tree/main/STL/Secura-stand
 
 ### The intention is to print this in SLM metal using services like:
 - 316L best price: https://jlc3dp.com/
