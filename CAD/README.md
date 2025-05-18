@@ -1,8 +1,8 @@
-############################################################
-## CAD files - details 
+
+# CAD files - OFFICIAL RELEASE
 ############################################################
 
-## THIS IS A BETA RELEASE 
+## Usage of the Fusion 360 files is preferred for all cases 
 
-the file named "Secura-Assembly-R1.f3z" has all the other files embedded 
+
 
