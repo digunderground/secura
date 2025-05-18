@@ -4,7 +4,8 @@
 
 PLEASE READ ANY/ALL .MD FILES BEFORE WASTING $$ ON PRINTS YOU DONT NEED
 
-## Sample Craft Cloud Cart with parts in the correct materials- you can just pay and print these for the parts: 
+## Craft Cloud Cart 
+sample cart, pay attention to the materials. you can use this cart to buy all base parts in the correct materials. 
 https://craftcloud3d.com/en/offer/1f019a7e-3fd2-4ae7-9aae-cc49bfd2d0f4?utm_source=craftcloud&utm_campaign=shareable_cart
 
 Lightsaber Render:
