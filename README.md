@@ -46,8 +46,7 @@ Lightsaber Render:
 Lightsaber Stand Render: 
 
 ![Secura Stand-filled](https://github.com/user-attachments/assets/cd0e52e9-e7fb-4bac-8f0d-4c87d61e0846)
-https://github.com/digunderground/secura/tree/main/Extras/secura-stand
-
+https://github.com/digunderground/secura/tree/main/STL/Secura-stand
 
 ### The intention is to print this in SLM metal using services like:
 - 316L best price: https://jlc3dp.com/
