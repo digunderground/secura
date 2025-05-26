@@ -13,13 +13,14 @@
 ## Secura Speaker:
 
 - SP files with "holder" in the name need to be printed in CLEAR RESIN if you want to see the lights 
+- 33mm titan speaker is recommended for SLM metal parts only due to the super thin walls
 
 ## Should you choose to print this using FDM or SLA or SLS, see the notes below:
 For FDM:
 
 - the finished product WILL lack strength in the layer direction
 - you WILL lose some of the detail
-- we recommend tree supports where necessarry
+- we recommend tree supports where needed
 - you will need to merge some parts into one (positive terminal isolation) and potentially use alternate parts
 - you will lose the chassis being a common ground
 
