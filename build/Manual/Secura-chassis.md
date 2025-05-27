@@ -3,7 +3,7 @@ _electronics and battery_
 ***
 ![](image/Secura-Chassis-render1.png)
 ***
-![](video/Secura-Chassis-exploded.mp4)
+https://github.com/user-attachments/assets/cefb1376-12e1-43ca-87cb-c5749daabf90
 ***
 ## Chassis Part Highlights: 
 > [!CAUTION]
