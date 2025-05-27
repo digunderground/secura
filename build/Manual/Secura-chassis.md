@@ -2,7 +2,8 @@
 _electronics and battery_
 ***
 ![](image/Secura-Chassis-render1.png)
-
+***
+![](video/Secura-Chassis-exploded.mp4)
 ***
 ## Chassis Part Highlights: 
 > [!CAUTION]
