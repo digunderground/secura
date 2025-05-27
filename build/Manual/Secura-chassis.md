@@ -42,10 +42,10 @@ https://github.com/user-attachments/assets/cefb1376-12e1-43ca-87cb-c5749daabf90
 - [CH-ISO_screen](#ch-iso_screen) 
 
 ### 2) Main Body Parts - SLM > SLS > SLA or FDM 
-- CH-base
-- CH-electronicsDoor
-- CH-chassis
-- CH-batteryDoor
+- [CH-base](#ch-base)
+- [CH-electronicsDoor](#ch-electronicsdoor)
+- [CH-chassis](#ch-chassis)
+- [CH-batteryDoor](#ch-batterydoor)
 
 > [!CAUTION]
 > DO NOT PRINT CH-batteryTerminal. this is for sizing and comparison - [CH-ISO_Battery ](#ch-iso_battery) has a full description.
@@ -64,7 +64,7 @@ Once the positive terminal is cut out it can be notched and soldered to the wire
 - we recommend printing this part out of PA12 or PA6 using a SLS method 
 - alternatively you can FDM print from PA12 or ABS/ASA 
 
-
+[CH-ISO_battery STL](../../STL/secura-chassis/CH-ISO_Battery.stl)
 
 ## CH-ISO_Proffie
 *** 
@@ -96,3 +96,46 @@ Should you choose to use this part you will need 3mm thick wall copper tubing, c
 The CH-ISO_screen part is to keep the OLED isolated from the SLM metal chassis body. it also allows the wires to run behind it, concealing them from view. This part provides a snug fit for the screen against the main chassis. 
 > [!TIP]
 > you may need to sand down thi part of a perfect fit depending on how much finish work you put into the SLM metal body. 
+
+## CH-base
+*** 
+![](image/CH-base-render1.png)
+> [!IMPORTANT]
+> you will need to tap 4x M1.4 holes in this piece to hold the speaker enclosure 
+
+> [!TIP]
+> Assemble calls for 4x 4-40 heatset inserts - these are NOT heat set into the parts, it is instead used as a very small nut that will easily recess into the part when assembled. 
+
+The CH-base part caps off the bottom end of the chassis assembly and allows the speaker holder to be secure screwed in using 4x M1.4 screws. This part has an opening that you can mount a single LED or small Shtok LED ring into. 
+the recessed side (in the image) goes towards the chassis, this area is to allow easy routing of electronics and wires
+
+## CH-electronicsDoor
+*** 
+![](image/CH-electronicsDoor-render1.png)
+> [!NOTE]
+> This part is NOT interchangable with the CH-batteryDoor
+
+> [!TIP]
+> you will need to glue in 6x neodymium magnets - 3mm diameter 1mm thick 
+
+This part covers the electronics of the chassis, it is held on with 6x neodymium magnets that you need to glue in. be VERY cautious during install to keep the magnets in the correct orientation so they do not repel the magnets in the CH-chassis part - these small magnets really like to flip flop. 
+
+## CH-chassis
+*** 
+![](image/CH-chassis-render1.png)
+> [!NOTE]
+> This will require 10x neodymium magnets 3mm diameter x 2mm thick 
+
+The CH-chassis part is the main event, here to house all electronics and wiring. it is a tight fit and will test your patience from time to time. 
+
+
+## CH-batteryDoor
+*** 
+![](image/CH-batteryDoor-render1.png)
+> [!NOTE]
+> This part is NOT interchangable with the CH-electronicsDoor
+
+> [!TIP]
+> you will need to glue in 4x neodymium magnets - 3mm diameter 1mm thick
+
+This part covers the battery within chassis, it is held on with 4x neodymium magnets that you need to glue in. Be VERY cautious during install to keep the magnets in the correct orientation so they do not repel the magnets in the CH-chassis part - these small magnets really like to flip flop.
