@@ -23,11 +23,12 @@
 ## CH-ISO-Battery
 ![](image/CH-ISO_battery-render1.png) 
 ## Materials compatibility:
-| Material | Method  | Approved            | Notes                                                        |
-|----------|---------|---------------------|--------------------------------------------------------------|
-| PA12     | SLS/FDM | **YES**             | non-condustive, resistant to heat, does not deform over time |
-| PA6      | SLS/FDM | **YES**             | non-condustive, resistant to heat, does not deform over time |
-| ABS      | FDM     | **YES**             | non-condustive, resistant to heat, does not deform over time |
-| ASA      | FDM     | **YES**             | non-condustive, resistant to heat, does not deform over time |
-| PLA      | FDM     | $${\color{red}NO}$$ | Non-Condustive, deforms under heat, deforms over time        |
+| $${\color{lightblue}Material}$$ | $${\color{lightblue}Method}$$  | $${\color{lightblue}Approved}$$               | $${\color{lightblue}Notes}$$                                                           |
+|------------------------------|---------|------------------------|-----------------------------------------------------------------|
+| PA12                         | SLS/FDM | $${\color{green}YES}$$ | non-condustive, resistant to heat, does not deform over time    |
+| PA6                          | SLS/FDM | $${\color{green}YES}$$ | non-condustive, resistant to heat, does not deform over time    |
+| ABS                          | FDM     | $${\color{green}YES}$$ | non-condustive, resistant to heat, does not deform over time    |
+| ASA                          | FDM     | $${\color{green}YES}$$ | non-condustive, resistant to heat, does not deform over time    |
+| PLA                          | FDM     | $${\color{red}NO}$$    | Non-Condustive, deforms under heat, deforms over time           |
+| PETG                         | FDM     | $${\color{red}NO}$$    | Non-Conductive, Handles heat well, deforms over time, not ideal |
 
