@@ -4,7 +4,7 @@
 ## Components list and materials: 
 
 ### 1) Isolation parts - print out of a non-conductive material 
-- [CH-ISO_Battery ](ch-iso-battery)
+- [CH-ISO_Battery ](#ch-iso-battery)
 - CH-ISO_Proffie
 - CH-ISO_BusBar
 - CH-ISO_screen 
