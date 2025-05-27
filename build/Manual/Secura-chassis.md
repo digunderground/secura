@@ -64,7 +64,6 @@ Once the positive terminal is cut out it can be notched and soldered to the wire
 - we recommend printing this part out of PA12 or PA6 using a SLS method 
 - alternatively you can FDM print from PA12 or ABS/ASA 
 
-[CH-ISO_battery STL](../../STL/secura-chassis/CH-ISO_Battery.stl)
 
 ## CH-ISO_Proffie
 *** 
