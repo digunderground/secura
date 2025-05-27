@@ -22,7 +22,12 @@
 
 ## CH-ISO-Battery
 ![](image/CH-ISO_battery-render1.png) 
-Tested materials: 
-- PA6 or PA12 - FDM or SLS recommended 
-- ABS or ASA - FDM 
-- 
+## Materials compatibility:
+| Material | Method  | Approved            | Notes                                                        |
+|----------|---------|---------------------|--------------------------------------------------------------|
+| PA12     | SLS/FDM | **YES**             | non-condustive, resistant to heat, does not deform over time |
+| PA6      | SLS/FDM | **YES**             | non-condustive, resistant to heat, does not deform over time |
+| ABS      | FDM     | **YES**             | non-condustive, resistant to heat, does not deform over time |
+| ASA      | FDM     | **YES**             | non-condustive, resistant to heat, does not deform over time |
+| PLA      | FDM     | $${\color{red}NO}$$ | Non-Condustive, deforms under heat, deforms over time        |
+
