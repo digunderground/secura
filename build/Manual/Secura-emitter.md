@@ -3,7 +3,7 @@ _Blade holder, buttons and chassis side blade pins_
 ***
 ![](image/Secura-Emitter-render.png)
 ***
-_exploded view - add in GIT directly_
+https://github.com/user-attachments/assets/98bedda8-689d-4d3c-846b-197768a15971
 ***
 ## Emitter Part Highlights:
 > [!CAUTION]
@@ -57,6 +57,8 @@ Designed to have a more rounded entrance for the blade to enter, without the cut
 > the 4-40 holes on the bottom are blind holes, meaning you will need to clear the chips out or you will snap a tap. 
 > Additionally, we highly recommend SLM Aluminium - Stainless and Titanium are VERY hard to tap unless you are experienced
 > YOU. HAVE. BEEN. WARNED.
+
+https://github.com/user-attachments/assets/6ad42594-aa53-4170-b123-81a9c08d6567
 
 - The emitter is designed with more holes than we need for this project, this was to allow its usage on other projects and chassis. 
 - If using for this project you will only need to tap 4x holes, the 2x under the glass eye and the 2x beside the button groove. 
