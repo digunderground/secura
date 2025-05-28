@@ -3,7 +3,9 @@ _Blade holder, buttons and chassis side blade pins_
 ***
 ![](image/Secura-CrystalChamber-render.png)
 ***
-INSERT EXPLODED VIEW
+
+https://github.com/user-attachments/assets/aa2abbda-b485-40cf-995b-76118d8b39da
+
 ***
 ## Crystal Chamber Part Highlights:
 
