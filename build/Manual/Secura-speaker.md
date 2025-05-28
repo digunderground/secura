@@ -1,6 +1,8 @@
 # Secura Speaker
 _28mm or 33mm Shtok Titan options_
 ***
+## Navigation: [Manual](README.md) / Secura-speaker.md
+***
 ![](image/Secura-Speaker-render.png)
 ***
 ## Emitter Part Highlights:
@@ -16,8 +18,10 @@ _28mm or 33mm Shtok Titan options_
 
 ***
 
-### Secura Speaker Parts
-pick EITHER: 
+## TOC
+[Manual](README.md) / Secura-speaker.md
+
+pick ONE: 
 - [33mm Shtok Titan](#sp-33mm)
   - [SP-33mm-outer ](#sp-33mm-outer) 
   - [SP-33mm-holder ](#sp-33mm-holder) 
@@ -35,6 +39,8 @@ https://github.com/user-attachments/assets/73da1abb-a244-40c8-bd3c-021bff45e680
 
 ## SP-33mm-outer
 ***
+[to TOC &uarr;](#toc)
+***
 ![](image/SP-33mm-outer-render.png)
 > [!IMPORTANT]
 > - you will need to sand the internal diameter for fitment.
@@ -48,6 +54,8 @@ this part is held into the SP-33mm-holder with 2x 4-40 screws - you will likely 
 
 
 ## SP-33mm-holder
+***
+[to TOC &uarr;](#toc)
 ***
 ![](image/SP-33mm-holder-render.png)
 > [!IMPORTANT]
@@ -66,6 +74,8 @@ https://github.com/user-attachments/assets/f698026a-3095-47ef-9c3f-5bcf8754eda8
 
 ## SP-28mm-outer
 ***
+[to TOC &uarr;](#toc)
+***
 ![](image/SP-28mm-outer-render.png)
 > [!IMPORTANT]
 > - you might need to sand the internal diameter for fitment.
@@ -76,6 +86,8 @@ https://github.com/user-attachments/assets/f698026a-3095-47ef-9c3f-5bcf8754eda8
 this part houses the SP-28mm-holder and uses 2x m1.4 screws to secure in place. A tight fitment is ideal and relieves stresses on the m1.4 screws.
 
 ## SP-28mm-holder
+***
+[to TOC &uarr;](#toc)
 ***
 ![](image/SP-28mm-holder-render.png)
 > [!IMPORTANT]
