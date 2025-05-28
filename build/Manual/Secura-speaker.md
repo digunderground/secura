@@ -3,8 +3,6 @@ _28mm or 33mm Shtok Titan options_
 ***
 ![](image/Secura-Speaker-render.png)
 ***
-add exploded in GIThub
-***
 ## Emitter Part Highlights:
 > [!CAUTION]
 > - Pick ONE: 33mm for Shtok titan or 28mm 
@@ -33,6 +31,8 @@ pick EITHER:
 
 # SP-33mm
 
+https://github.com/user-attachments/assets/73da1abb-a244-40c8-bd3c-021bff45e680
+
 ## SP-33mm-outer
 ***
 ![](image/SP-33mm-outer-render.png)
@@ -59,7 +59,10 @@ this part is held into the SP-33mm-holder with 2x 4-40 screws - you will likely 
 
 This houses the Shtok 33mm titan speaker and is a very tight fit. this part gets attached to the CH-base part with 4x m1.4 screws  
 
+
 # SP-28mm
+
+https://github.com/user-attachments/assets/f698026a-3095-47ef-9c3f-5bcf8754eda8
 
 ## SP-28mm-outer
 ***
