@@ -8,7 +8,7 @@ https://github.com/user-attachments/assets/98bedda8-689d-4d3c-846b-197768a15971
 ## Emitter Part Highlights:
 > [!CAUTION]
 > You will need to tap many holes in this part. 
-> - 4-40 = threaded rods for body support/assembly
+> - 4-40 = threaded rods for body support/assembly and to hold the button cover on. 
 > - 3-48 = brass pins 
 
 > [!IMPORTANT]
