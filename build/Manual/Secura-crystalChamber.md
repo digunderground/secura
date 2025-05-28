@@ -1,6 +1,8 @@
 # Secura Crystal Chamber
 _Blade holder, buttons and chassis side blade pins_
 ***
+## Navigation: [Manual](README.md) / Secura-crystalChamber.md
+***
 ![](image/Secura-CrystalChamber-render.png)
 ***
 
@@ -15,8 +17,8 @@ https://github.com/user-attachments/assets/aa2abbda-b485-40cf-995b-76118d8b39da
 
 ***
 
-### Secura Crystal Chamber Parts
-
+## TOC
+[Manual](README.md) / Secura-crystalChamber.md
 - [SPG-top](#spg-top)
 - [SPG-window](#spg-window)
 - [SPG-reactor](#spg-reactor)
@@ -26,6 +28,8 @@ https://github.com/user-attachments/assets/aa2abbda-b485-40cf-995b-76118d8b39da
 - [CC-fins](#cc-fins)
 
 ## SPG-top
+***
+[to TOC &uarr;](#toc)
 ***
 ![](image/SPG-top-render.png)
 > [!IMPORTANT]
@@ -42,6 +46,8 @@ Once assembled, this slides onto the 4-40 rods mounted in the emitter section
 
 ## SPG-window
 ***
+[to TOC &uarr;](#toc)
+***
 ![](image/SPG-window-render.png)
 > [!IMPORTANT]
 > - Print SLA in clear resin - do not print in metal 
@@ -55,6 +61,8 @@ This part allows you to see the spinning plasma gate while protecting it from du
 Even with professional resins this piece can be brittle on the thin sections, this is drastically reduced when installed. 
 
 ## SPG-reactor
+***
+[to TOC &uarr;](#toc)
 ***
 ![](image/SPG-reactor-render.png)
 > [!IMPORTANT]
@@ -72,6 +80,8 @@ clearances MUST checked to ensure free movement and that no parts are rubbing.
 
 ## SPG-base
 ***
+[to TOC &uarr;](#toc)
+***
 ![](image/SPG-base-render.png)
 > [!IMPORTANT]
 > - the 7x14x5 ceramic bearing must be carefully glued into this piece - make sure the glue is only applied to the outside
@@ -85,6 +95,8 @@ you will need to glue in the bearing and SPG-reactor during assembly - this ensu
 
 ## SPG-collector
 ***
+[to TOC &uarr;](#toc)
+***
 ![](image/SPG-collector-render.png)
 > [!IMPORTANT]
 > - this part might need some sanding to the top surface for mating to the bottom of the SPG-reactor inside the bearing 
@@ -97,6 +109,8 @@ this is the visible exposed part that spins around the actual crystal. this is h
 
 
 ## SPG-base
+***
+[to TOC &uarr;](#toc)
 ***
 ![](image/CC-base-render.png)
 > [!IMPORTANT]
@@ -112,6 +126,8 @@ This piece houses the kyber crystal, and lighting under it. This also serves as 
 you will need to install this to check fitment and clearance prior to final assembly. 
 
 ## SPG-fins
+***
+[to TOC &uarr;](#toc)
 ***
 ![](image/CC-fins-render.png)
 > [!IMPORTANT]

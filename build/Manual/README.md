@@ -15,6 +15,7 @@ There will be additional sections for various other assembly and wiring needs.
   - [Secura Speaker](Secura-speaker.md)
 - ### Assembly Documentation 
   - #### General 
+    - [Materials](materials.md) (Recommended 3d printing materials)
     - Finishing Parts
     - Wiring
     - Tapping
