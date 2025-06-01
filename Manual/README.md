@@ -16,6 +16,7 @@ There will be additional sections for various other assembly and wiring needs.
 - ### Assembly Documentation 
   - #### General 
     - [Materials](materials.md) (Recommended 3d printing materials)
+    - Tools (recommended Tools)
     - Finishing Parts
     - Wiring
     - Tapping
