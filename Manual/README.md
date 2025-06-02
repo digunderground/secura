@@ -6,6 +6,9 @@ This manual will be broken into sections for each main component and their assem
 There will be additional sections for various other assembly and wiring needs. 
 ***
 
+> [!IMPORTANT]
+> - Files OR Folders with NOP mean "NoPrint" - these are for reference or people who want to print these parts instead of using hardware or laser cut parts. These are generally untested in a printable form and intended to use parts from the BOM instead. 
+
 ## Glossary: 
 
 - ### Part descriptions and details 
@@ -16,9 +19,9 @@ There will be additional sections for various other assembly and wiring needs.
 - ### Assembly Documentation 
   - #### General 
     - [Materials](materials.md) (Recommended 3d printing materials)
-    - Tools (recommended Tools)
+    - [Tools and Consumables](tools-consumables.md) (recommended Tools)
     - Finishing Parts
-    - Wiring
+    - [Wiring](wiring.md)
     - Tapping
     - Suppliers
   
