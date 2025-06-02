@@ -69,6 +69,8 @@ Recommended tools for assembly - this is NOT about brands, but the functional un
 > - this my not be the most elegant way to do things - you can likely combine some wires
 > - I recommend explicit wires instead of wire-sharing, this eliminates wire noise
 
+![](image/Secura-wireDiagram.jpg)
+
 [Secura-wireDiagram.pdf](https://github.com/user-attachments/files/20558570/Secura-wireDiagram.pdf)
 
 > [!CAUTION]
