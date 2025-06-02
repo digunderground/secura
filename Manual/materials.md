@@ -43,14 +43,14 @@
 > - we have NOT tested DMLS / LMM / DMP / or Binder Jet - due to costs, availability or known limitations
 
 
-| **MATERIAL**          | **METHOD** | **IMPACT**                    | **TESTED** | **NOTES**                                                     | **EXAMPLE COST** |
-|-----------------------|------------|-------------------------------|------------|---------------------------------------------------------------|------------------|
-| Stainless 316         | SLM        | $${\color{yellow}harder}$$    | YES        | Durable, difficult to work with, moderate expense             | $180             |
-| Aluminum              | SLM        | $${\color{green}easy}$$       | YES        | Moderately Durable, easy to work with, low expense            | $160             |
-| Brass                 | SLM        | $${\color{yellow}expensive}$$ | NO         | Moderately durable, easy to work with, very high expense      | over $1000       |
-| Copper                | SLM        | $${\color{yellow}expensive}$$ | NO         | Moderately durable, difficult to work with, very high expense | over $1000       |
-| Bronze                | SLM        | $${\color{yellow}expensive}$$ | NO         | Durable, difficult to work with, very high expense            | over $1000       |
-| Titanium              | SLM        | $${\color{red}expert}$$       | YES        | Extremely durable, very difficult to work with, high expense  | $675             |
+| **MATERIAL**          | **METHOD** | **IMPACT** | **TESTED** | **NOTES**                                                     | **EXAMPLE COST** |
+|-----------------------|------------|------------|------------|---------------------------------------------------------------|------------------|
+| Stainless 316         | SLM        | Harder     | YES        | Durable, difficult to work with, moderate expense             | $180             |
+| Aluminum              | SLM        | Easy       | YES        | Moderately Durable, easy to work with, low expense            | $160             |
+| Brass                 | SLM        | Expensive  | NO         | Moderately durable, easy to work with, very high expense      | over $1000       |
+| Copper                | SLM        | Expensive  | NO         | Moderately durable, difficult to work with, very high expense | over $1000       |
+| Bronze                | SLM        | Expensive  | NO         | Durable, difficult to work with, very high expense            | over $1000       |
+| Titanium              | SLM        | Expert     | YES        | Extremely durable, very difficult to work with, high expense  | $675             |
 
 
 > [!NOTE]
