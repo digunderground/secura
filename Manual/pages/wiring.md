@@ -1,12 +1,12 @@
 # Wiring
 ***
-## Navigation: [Manual](README.md) / Wiring.md
+## Navigation: [Manual](../README.md) / Wiring.md
 ***
 
 Recommended tools for assembly - this is NOT about brands, but the functional underlying tool. We might make recommendations on brand solely because we find it to be better in some way, but that does not mean another manufacturer could be just as good or better.
 
 ## TOC
-[Manual](README.md) / Wiring.md
+[Manual](../README.md) / Wiring.md
 - [Blade Wire Gauge](#blade-wire-gauge)
 - [Chassis Wire Gauge](#chassis-wire-gauge)
 - [Wiring Diagram](#wiring-diagram)
@@ -69,7 +69,7 @@ Recommended tools for assembly - this is NOT about brands, but the functional un
 > - this my not be the most elegant way to do things - you can likely combine some wires
 > - I recommend explicit wires instead of wire-sharing, this eliminates wire noise
 
-![](image/Secura-wireDiagram.jpg)
+![](../files/image/Secura-wireDiagram.jpg)
 
 [Secura-wireDiagram.pdf](https://github.com/user-attachments/files/20558570/Secura-wireDiagram.pdf)
 

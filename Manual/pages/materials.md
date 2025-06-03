@@ -1,9 +1,9 @@
 # Materials
 ***
-## Navigation: [Manual](README.md) / materials.md 
+## Navigation: [Manual](../README.md) / materials.md 
 ***
 ## TOC
-[Manual](README.md) / materials.md
+[Manual](../README.md) / materials.md
 - [FDM / SLS Materials ](#fdmsls-materials)
 - [Metal Materials](#metal-materials) (SLM)
 - [Resin Materials](#resin-materials)

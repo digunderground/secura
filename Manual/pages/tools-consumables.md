@@ -1,12 +1,12 @@
 # Tools
 ***
-## Navigation: [Manual](README.md) / Tools.md
+## Navigation: [Manual](../README.md) / Tools.md
 ***
 
 Recommended tools for assembly - this is NOT about brands, but the functional underlying tool. We might make recommendations on brand solely because we find it to be better in some way, but that does not mean another manufacturer could be just as good or better. 
 
 ## TOC
-[Manual](README.md) / Tools.md
+[Manual](../README.md) / Tools.md
 - [Soldering](#soldering)
 - [Tools](#tools)
 - [Tooling](#tooling)

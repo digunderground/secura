@@ -1,9 +1,9 @@
 # Secura Speaker
 _28mm or 33mm Shtok Titan options_
 ***
-## Navigation: [Manual](README.md) / Secura-speaker.md
+## Navigation: [Manual](../README.md) / Secura-speaker.md
 ***
-![](image/Secura-Speaker-render.png)
+![](../files/image/Secura-Speaker-render.png)
 ***
 ## Emitter Part Highlights:
 > [!CAUTION]
@@ -19,7 +19,7 @@ _28mm or 33mm Shtok Titan options_
 ***
 
 ## TOC
-[Manual](README.md) / Secura-speaker.md
+[Manual](../README.md) / Secura-speaker.md
 
 pick ONE: 
 - [33mm Shtok Titan](#sp-33mm)
@@ -41,7 +41,7 @@ https://github.com/user-attachments/assets/73da1abb-a244-40c8-bd3c-021bff45e680
 ***
 [to TOC &uarr;](#toc)
 ***
-![](image/SP-33mm-outer-render.png)
+![](../files/image/SP-33mm-outer-render.png)
 > [!IMPORTANT]
 > - you will need to sand the internal diameter for fitment.
 > - this is a VERY tight fit, take your time
@@ -57,7 +57,7 @@ this part is held into the SP-33mm-holder with 2x 4-40 screws - you will likely 
 ***
 [to TOC &uarr;](#toc)
 ***
-![](image/SP-33mm-holder-render.png)
+![](../files/image/SP-33mm-holder-render.png)
 > [!IMPORTANT]
 > - this must be printed from a transparent/translucent material if you want to use a light at the base of the saber.
 > - you may need to sand the external to fit in the SP-33mm-outer part 
@@ -76,7 +76,7 @@ https://github.com/user-attachments/assets/f698026a-3095-47ef-9c3f-5bcf8754eda8
 ***
 [to TOC &uarr;](#toc)
 ***
-![](image/SP-28mm-outer-render.png)
+![](../files/image/SP-28mm-outer-render.png)
 > [!IMPORTANT]
 > - you might need to sand the internal diameter for fitment.
 
@@ -89,7 +89,7 @@ this part houses the SP-28mm-holder and uses 2x m1.4 screws to secure in place. 
 ***
 [to TOC &uarr;](#toc)
 ***
-![](image/SP-28mm-holder-render.png)
+![](../files/image/SP-28mm-holder-render.png)
 > [!IMPORTANT]
 > - this must be printed from a transparent/translucent material if you want to use a light at the base of the saber.
 > - you may need to sand the external to fit in the SP-28mm-outer part

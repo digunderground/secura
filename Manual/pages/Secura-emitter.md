@@ -1,9 +1,9 @@
 # Secura Emitter
 _Blade holder, buttons and chassis side blade pins_
 ***
-## Navigation: [Manual](README.md) / Secura-emitter.md
+## Navigation: [Manual](../README.md) / Secura-emitter.md
 ***
-![](image/Secura-Emitter-render.png)
+![](../files/image/Secura-Emitter-render.png)
 ***
 https://github.com/user-attachments/assets/98bedda8-689d-4d3c-846b-197768a15971
 ***
@@ -20,7 +20,7 @@ https://github.com/user-attachments/assets/98bedda8-689d-4d3c-846b-197768a15971
 ***
 
 ## TOC
-[Manual](README.md) / Secura-emitter.md
+[Manual](../README.md) / Secura-emitter.md
 - Top (_pick one_)
   - [EM-topAccurate ](#em-topaccurate) - ALT has accurate rear cutouts 
   - [EM-top ](#em-top) - ALT does not have rear cutouts + more of a fillet
@@ -31,7 +31,7 @@ https://github.com/user-attachments/assets/98bedda8-689d-4d3c-846b-197768a15971
 ***
 [to TOC &uarr;](#toc)
 ***
-![](image/EM-topAccurate-render.png)
+![](../files/image/EM-topAccurate-render.png)
 > [!IMPORTANT]
 > the inner diameter will be TIGHT and require sanding to fit a 1"blade - 25.4mm diameter.
 
@@ -45,7 +45,7 @@ Designed to be an accurate representation of the original Graflex upper - some d
 ***
 [to TOC &uarr;](#toc)
 ***
-![](image/EM-top-render.png)
+![](../files/image/EM-top-render.png)
 > [!IMPORTANT]
 > the inner diameter will be TIGHT and require sanding to fit a 1"blade - 25.4mm diameter.
 
@@ -58,7 +58,7 @@ Designed to have a more rounded entrance for the blade to enter, without the cut
 ***
 [to TOC &uarr;](#toc)
 ***
-![](image/EM-base-render.png)
+![](../files/image/EM-base-render.png)
 > [!IMPORTANT]
 > the inner diameter will be TIGHT and require sanding to fit a 1"blade - 25.4mm diameter.
 
@@ -80,7 +80,7 @@ https://github.com/user-attachments/assets/6ad42594-aa53-4170-b123-81a9c08d6567
 ***
 [to TOC &uarr;](#toc)
 ***
-![](image/EM-button-render.png)
+![](../files/image/EM-button-render.png)
 > [!IMPORTANT]
 > depending on button selection you may need to sand the emitter then shim under this part to provide clearance.
 
