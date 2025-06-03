@@ -2,7 +2,9 @@
 # Secura - Graflex Lightsaber Chassis - RELEASE
 ###########################################################################
 
-PLEASE READ ANY/ALL .MD FILES BEFORE WASTING $$ ON PRINTS YOU DONT NEED
+## Manual 
+
+[READ THE MANUAL HERE](Manual/README.md)
 
 ## Craft Cloud Cart 
 sample cart, pay attention to the materials. you can use this cart to buy all base parts in the correct materials. 
