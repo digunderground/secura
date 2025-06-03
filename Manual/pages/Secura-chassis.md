@@ -1,9 +1,9 @@
 # Secura Chassis 
 _electronics and battery_
 ***
-## Navigation: [Manual](README.md) / Secura-chassis.md
+## Navigation: [Manual](../README.md) / Secura-chassis.md
 ***
-![](image/Secura-Chassis-render1.png)
+![](../files/image/Secura-Chassis-render1.png)
 ***
 https://github.com/user-attachments/assets/cefb1376-12e1-43ca-87cb-c5749daabf90
 ***
@@ -18,7 +18,7 @@ https://github.com/user-attachments/assets/cefb1376-12e1-43ca-87cb-c5749daabf90
 
 
 ## TOC 
-[Manual](README.md) / Secura-chassis.md
+[Manual](../README.md) / Secura-chassis.md
 ***
 ### 1) Isolation parts - print out of a non-conductive material 
 - [CH-ISO_Battery ](#ch-iso_battery)
@@ -42,7 +42,7 @@ https://github.com/user-attachments/assets/cefb1376-12e1-43ca-87cb-c5749daabf90
 ***
 [to TOC &uarr;](#toc)
 ***
-![](image/CH-ISO_battery-render1.png) 
+![](../files/image/CH-ISO_battery-render1.png) 
 > [!IMPORTANT]
 > If you choose to print the entire chassis out plastic instead of metal, this part will need to be merged into the CH-chassis part for ideal rigidity.
 
@@ -56,7 +56,7 @@ Once the positive terminal is cut out it can be notched and soldered to the wire
 *** 
 [to TOC &uarr;](#toc)
 ***
-![](image/CH-ISO_proffie-render1.png)
+![](../files/image/CH-ISO_proffie-render1.png)
 > [!NOTE]
 > The Proffie is mounted with the SD card facing the mount. 
 
@@ -69,7 +69,7 @@ this part can be glued to the chassis body (CH-chassis) to improve rigidity, but
 ***
 [to TOC &uarr;](#toc)
 ***
-![](image/CH-ISO_busBar-render1.png)
+![](../files/image/CH-ISO_busBar-render1.png)
 > [!TIP]
 > this is an OPTIONAL part 
 
@@ -81,7 +81,7 @@ Should you choose to use this part you will need 3mm thick wall copper tubing, c
 *** 
 [to TOC &uarr;](#toc)
 ***
-![](image/CH-ISO_screen-render1.png)
+![](../files/image/CH-ISO_screen-render1.png)
 > [!NOTE]
 > The screen is mounted to the topside with wires running behind it. additionally, a LED strip can be affixed to the top side to show through the chassis venting. 
 
@@ -93,7 +93,7 @@ The CH-ISO_screen part is to keep the OLED isolated from the SLM metal chassis b
 *** 
 [to TOC &uarr;](#toc)
 ***
-![](image/CH-base-render1.png)
+![](../files/image/CH-base-render1.png)
 > [!IMPORTANT]
 > you will need to tap 4x M1.4 holes in this piece to hold the speaker enclosure 
 
@@ -107,7 +107,7 @@ the recessed side (in the image) goes towards the chassis, this area is to allow
 *** 
 [to TOC &uarr;](#toc)
 ***
-![](image/CH-electronicsDoor-render1.png)
+![](../files/image/CH-electronicsDoor-render1.png)
 > [!NOTE]
 > This part is NOT interchangable with the CH-batteryDoor
 
@@ -120,7 +120,7 @@ This part covers the electronics of the chassis, it is held on with 6x neodymium
 *** 
 [to TOC &uarr;](#toc)
 ***
-![](image/CH-chassis-render1.png)
+![](../files/image/CH-chassis-render1.png)
 > [!NOTE]
 > This will require 10x neodymium magnets 3mm diameter x 2mm thick 
 
@@ -131,7 +131,7 @@ The CH-chassis part is the main event, here to house all electronics and wiring.
 *** 
 [to TOC &uarr;](#toc)
 ***
-![](image/CH-batteryDoor-render1.png)
+![](../files/image/CH-batteryDoor-render1.png)
 > [!NOTE]
 > This part is NOT interchangable with the CH-electronicsDoor
 

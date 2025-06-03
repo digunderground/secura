@@ -1,9 +1,9 @@
 # Secura Crystal Chamber
 _Blade holder, buttons and chassis side blade pins_
 ***
-## Navigation: [Manual](README.md) / Secura-crystalChamber.md
+## Navigation: [Manual](../README.md) / Secura-crystalChamber.md
 ***
-![](image/Secura-CrystalChamber-render.png)
+![](../files/image/Secura-CrystalChamber-render.png)
 ***
 
 https://github.com/user-attachments/assets/aa2abbda-b485-40cf-995b-76118d8b39da
@@ -18,7 +18,7 @@ https://github.com/user-attachments/assets/aa2abbda-b485-40cf-995b-76118d8b39da
 ***
 
 ## TOC
-[Manual](README.md) / Secura-crystalChamber.md
+[Manual](../README.md) / Secura-crystalChamber.md
 - [SPG-top](#spg-top)
 - [SPG-window](#spg-window)
 - [SPG-reactor](#spg-reactor)
@@ -31,7 +31,7 @@ https://github.com/user-attachments/assets/aa2abbda-b485-40cf-995b-76118d8b39da
 ***
 [to TOC &uarr;](#toc)
 ***
-![](image/SPG-top-render.png)
+![](../files/image/SPG-top-render.png)
 > [!IMPORTANT]
 > - you may need some filing/sanding to fit the hilt-side pixel PCB. do not sand too much, it should snap in with glue as optional.
 > - use a piece of marble tile (flat surface - "poor mans" surface plate ) to flatten the mating surface 
@@ -48,7 +48,7 @@ Once assembled, this slides onto the 4-40 rods mounted in the emitter section
 ***
 [to TOC &uarr;](#toc)
 ***
-![](image/SPG-window-render.png)
+![](../files/image/SPG-window-render.png)
 > [!IMPORTANT]
 > - Print SLA in clear resin - do not print in metal 
 > - light sanding might be needed to reduce the height for best fitment. 
@@ -64,7 +64,7 @@ Even with professional resins this piece can be brittle on the thin sections, th
 ***
 [to TOC &uarr;](#toc)
 ***
-![](image/SPG-reactor-render.png)
+![](../files/image/SPG-reactor-render.png)
 > [!IMPORTANT]
 > - we recommend the usage of a 3-stage 6mm micro motor - this is the best option for size and speed control 
 > - this will NOT fit a 4-stage motor 
@@ -82,7 +82,7 @@ clearances MUST checked to ensure free movement and that no parts are rubbing.
 ***
 [to TOC &uarr;](#toc)
 ***
-![](image/SPG-base-render.png)
+![](../files/image/SPG-base-render.png)
 > [!IMPORTANT]
 > - the 7x14x5 ceramic bearing must be carefully glued into this piece - make sure the glue is only applied to the outside
 
@@ -97,7 +97,7 @@ you will need to glue in the bearing and SPG-reactor during assembly - this ensu
 ***
 [to TOC &uarr;](#toc)
 ***
-![](image/SPG-collector-render.png)
+![](../files/image/SPG-collector-render.png)
 > [!IMPORTANT]
 > - this part might need some sanding to the top surface for mating to the bottom of the SPG-reactor inside the bearing 
 > - the diameter should fit snuggly in the bearing but due to printing inaccuracies it might require some sanding for press fitment. 
@@ -112,7 +112,7 @@ this is the visible exposed part that spins around the actual crystal. this is h
 ***
 [to TOC &uarr;](#toc)
 ***
-![](image/CC-base-render.png)
+![](../files/image/CC-base-render.png)
 > [!IMPORTANT]
 > - you can use a real quartz crystal and use a combination of glue/resin and 28g magnet wire to secure the crystal. 
 > - it is not recommended to bend the prongs - 3d printed metal is very durable but may fracture if bent. 
@@ -129,7 +129,7 @@ you will need to install this to check fitment and clearance prior to final asse
 ***
 [to TOC &uarr;](#toc)
 ***
-![](image/CC-fins-render.png)
+![](../files/image/CC-fins-render.png)
 > [!IMPORTANT]
 > - This part is intended for laser cut metal parts - printing this part has NOT been tested. 
 > - you will need spacers between these - 4-40 heatset inserts work well or 4-40 spacers can be used. 
