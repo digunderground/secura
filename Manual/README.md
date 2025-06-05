@@ -23,7 +23,7 @@ There will be additional sections for various other assembly and wiring needs.
     - Finishing Parts
     - [Wiring](pages/wiring.md)
     - Tapping
-    - Suppliers
+    - [Suppliers](pages\suppliers.md)
   
   - #### Secura Chassis Assembly 
     - [Secura Chassis ](pages/Secura-chassis-assembly.md)
