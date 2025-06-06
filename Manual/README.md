@@ -10,6 +10,10 @@ There will be additional sections for various other assembly and wiring needs.
 > - Files OR Folders with NOP mean "NoPrint" - these are for reference or people who want to print these parts instead of using hardware or laser cut parts. These are generally untested in a printable form and intended to use parts from the BOM instead. 
 
 ## Glossary: 
+- ### Tested Hilts Detail
+  - [The Graflex Shop](pages/tgs.md) (as-is)
+  - [89Sabers](pages/89sabers.md) (minor modifications needed)
+  - Roman Props (as-is)
 
 - ### Part descriptions and details 
   - [Secura Chassis ](pages/Secura-chassis.md)
@@ -23,10 +27,11 @@ There will be additional sections for various other assembly and wiring needs.
     - Finishing Parts
     - [Wiring](pages/wiring.md)
     - Tapping
-    - [Suppliers](pages\suppliers.md)
+    - [Suppliers](pages/suppliers.md)
   
   - #### Secura Chassis Assembly 
     - [Secura Chassis ](pages/Secura-chassis-assembly.md)
     - [Secura Crystal Chamber and Plasma Gate](pages/Secura-crystalChamber-assembly.md)
     - [Secura Emitter ](pages/Secura-emitter-assembly.md)
     - [Secura Speaker](pages/Secura-speaker-assembly.md)
+
